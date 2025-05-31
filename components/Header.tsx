@@ -45,7 +45,7 @@ export default function Header() {
           {/* Logo */}
           <div className="text-2xl font-bold">
             <span className="text-gradient">Sathish</span>
-            <span className="text-accent-500">.</span>
+            <span className="text-accent-500">.T</span>
           </div>
 
           {/* Desktop Navigation */}
