@@ -92,7 +92,7 @@ export default function Hero() {
               title="LeetCode Profile"
             >  <Code2 className="w-6 h-6" /></a>
             <a
-              href="mailto:sathist.27@gmail.com"
+              href="mailto:sathish27.t@gmail.com"
               className="p-3 rounded-full bg-white dark:bg-gray-800 shadow-lg hover:shadow-xl text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-all duration-300 transform hover:-translate-y-1"
             >
               <Mail className="w-6 h-6" />

@@ -81,7 +81,7 @@ export default function About() {
                 <div className="text-center p-6 bg-gradient-to-br from-accent-50 to-accent-100 dark:from-accent-900/20 dark:to-accent-800/20 rounded-xl border border-accent-200 dark:border-accent-800 hover:shadow-lg transition-all duration-300">
                   <Award className="w-8 h-8 text-accent-600 dark:text-accent-400 mx-auto mb-3" />
                   <h4 className="font-semibold text-gray-900 dark:text-white mb-2">Projects</h4>
-                  <p className="text-sm text-gray-600 dark:text-gray-400">25+ Completed</p>
+                  <p className="text-sm text-gray-600 dark:text-gray-400">20+ Completed</p>
                 </div>
               </div>
             </div>
