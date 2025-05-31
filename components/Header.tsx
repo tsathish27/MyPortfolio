@@ -19,8 +19,8 @@ export default function Header() {
 
   const handleDownloadResume = () => {
     const link = document.createElement("a")
-    link.href = "/placeholder.svg?height=800&width=600"
-    link.download = "T-SATHISH-Resume2.pdf"
+    link.href = "/T-SATHISH-Resume2.pdf?height=800&width=600"
+    link.download = "T-SATHISH-Resume.pdf"
     link.click()
   }
 
@@ -45,7 +45,7 @@ export default function Header() {
           {/* Logo */}
           <div className="text-2xl font-bold">
             <span className="text-gradient">Sathish</span>
-            <span className="text-accent-500">.</span>
+            <span className="text-accent-500">.T</span>
           </div>
 
           {/* Desktop Navigation */}
