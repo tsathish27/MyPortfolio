@@ -149,7 +149,7 @@ export default function Contact() {
                   asChild
                   className="bg-gradient-to-r from-primary-600 to-secondary-600 hover:from-primary-700 hover:to-secondary-700 text-white shadow-lg"
                 >
-                  <a href="mailto:varun@example.com">
+                  <a href="mailto:sathish27.t@gmail.com">
                     <Mail className="w-4 h-4 mr-2" />
                     Send Email
                   </a>
